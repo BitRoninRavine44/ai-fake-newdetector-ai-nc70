@@ -1,4 +1,4 @@
-# 
+# Actualizado AI Fake News Detector scripts. Con analítica predictiva y IA generativa — optimizado para el máximo rendimiento.
 
 
 
